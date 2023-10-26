@@ -1,6 +1,6 @@
 # thu_y_app
 
-A new Flutter project.
+1. base bloc, quản lí state, rest api ....
 
 ## Getting Started
 
